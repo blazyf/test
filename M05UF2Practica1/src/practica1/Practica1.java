@@ -31,6 +31,8 @@ public class Practica1 {
             } while (!numero1.matches("[+-]?[\\d]*[.]?[\\d]+"));
             double nume1 = Double.parseDouble(numero1);
             double n1 = new Double(numero1);
+            
+            
 
             do {
                 System.out.println("\n Operació? (Indica el signe)");
