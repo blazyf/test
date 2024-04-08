@@ -23,6 +23,8 @@ public class Practica1 {
         boolean comprobar = false;
         // hoal soy marc
 
+        
+        
         do {
 
             String numero1;
